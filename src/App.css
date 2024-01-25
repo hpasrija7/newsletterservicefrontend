@@ -35,3 +35,6 @@
   padding: 20px;
   margin-bottom: 10px;
 }
+.monthly-plan-section .no-line {
+  display: none;
+}
